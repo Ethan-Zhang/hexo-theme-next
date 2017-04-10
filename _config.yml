@@ -38,7 +38,7 @@ seo: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   #about: /about
   archives: /archives
   tags: /tags
@@ -268,7 +268,22 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
+
+
+# Automatically scroll page to section which is under <!-- more --> mark.
+scroll_to_more: true
+
+
+# Automatically Excerpt. Not recommand.
+# Please use <!-- more --> in the post to control excerpt accurately.
+auto_excerpt:
+  enable: false
+  length: 460
+
+
+# Use Lato font
+use_font_lato: true
 
 
 # ---------------------------------------------------------------
