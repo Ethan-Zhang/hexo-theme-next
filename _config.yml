@@ -154,7 +154,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: http://7xpwqp.com1.z0.glb.clouddn.com/avatar_01.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -270,18 +270,6 @@ custom_logo:
 # https://github.com/chriskempson/tomorrow-theme
 highlight_theme: night
 
-
-# Automatically scroll page to section which is under <!-- more --> mark.
-scroll_to_more: true
-
-
-# Automatically Excerpt. Not recommand.
-# Please use <!-- more --> in the post to control excerpt accurately.
-auto_excerpt:
-  enable: false
-  length: 460
-
-
 # Use Lato font
 use_font_lato: true
 
@@ -301,7 +289,7 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 33c8066a182d569550ea355708fe9061
 
 # Duoshuo ShortName
 #duoshuo_shortname:
